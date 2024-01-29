@@ -91,6 +91,16 @@ ol {
     align-items: center;
 }
 
+.header-container {
+    display: flex;
+}
+
+.container {
+    width: 1158px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
 .address {
     font-style: normal;
     text-decoration: none;
