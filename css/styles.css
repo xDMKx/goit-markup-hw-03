@@ -93,6 +93,7 @@ ol {
 
 .header-container {
     display: flex;
+    align-items: center;
 }
 
 .container {
@@ -163,6 +164,7 @@ ol {
     min-width: 169px;
     height: 56px;
     border: none;
+    margin: 0 auto;
 }
 
 .solutions-btn:hover,
@@ -213,6 +215,7 @@ img {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    margin-top: 0;
 }
 
 .info-text {
@@ -222,6 +225,7 @@ img {
     letter-spacing: 0.02em;
     width: 264px;
     text-align: start;
+    margin: 0;
 }
 
 .port-box {
@@ -245,10 +249,10 @@ img {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     margin-bottom: 72px;
+    margin-top: 0;
 }
 
 .team-list {
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -280,6 +284,7 @@ img {
     list-style-type: none;
     text-align: center;
     margin-bottom: 8px;
+    margin-top: 0;
 }
 
 .team-text {
@@ -288,6 +293,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
+    margin: 0;
 }
 
 .portfolio {
@@ -318,6 +324,7 @@ img {
     list-style-type: none;
     text-align: start;
     margin-bottom: 8px;
+    margin-top: 0;
 }
 
 .portfolio-text {
@@ -325,6 +332,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    margin: 0;
 }
 
 .portfolio-list {
@@ -370,4 +378,5 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     max-width: 264px;
+    margin: 0;
 }
